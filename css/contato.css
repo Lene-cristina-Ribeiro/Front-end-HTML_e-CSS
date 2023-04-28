@@ -1,0 +1,13 @@
+.container_contact {
+    display: flex;
+    justify-content: space-between;
+}   
+
+ .contact{
+    
+    width: 483px;
+    padding: 0 0 70px 0;
+    
+    font-weight: 400;
+    font-size: 26px;
+}

@@ -1,0 +1,41 @@
+.footer{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    color: white;
+    padding: 16px 32px;
+    width: 100vw;
+    height: 9vh;
+
+
+    background-color: black;
+}
+
+.footer_img {
+    margin: 7px 0 0 126px;
+}
+ 
+.footer_navegation ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer-navegation-item  {
+    margin-left: 27px;
+    font-size: 22px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right;
+}
+
+.footer_img-social-media {
+    margin-left: 36%;
+}
+    
+    
+.footer_img-social-media_item {
+    display: inline-flex;
+    
+    margin: 1rem;
+}

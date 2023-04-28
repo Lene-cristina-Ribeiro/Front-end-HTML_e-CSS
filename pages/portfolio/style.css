@@ -1,0 +1,155 @@
+.container_manage {
+    display: flex;
+
+    padding: 50px 0;
+    
+    color: #33323d;
+}
+
+.manage_img {
+    height: 500px;
+    width: 388%;
+
+    background-image: url("../../assets/portfolio/manage/image-portfolio-manage.jpg");
+    background-size: cover;
+}
+
+.content_manage {
+    padding: 0 100px; 
+}
+
+.titulo_manage h1{
+    width: 430px;
+    height: 42px;
+    padding: 23px 0;
+
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 37px;
+}
+
+.text_manage p {
+    height: 100%;
+    padding: 72px 0;
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 46px;
+}
+
+.container_bookmark {
+    display: flex;
+
+    padding: 50px 0;
+    
+    color: #33323d;
+}
+
+.content_bookmark {
+    padding: 0 100px; 
+}
+
+.titulo_bookmark h1 {
+    width: 430px;
+    height: 42px;
+    padding: 23px 0;
+
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 37px;
+}
+
+.text_bookmark p {
+    height: 100%;
+    padding: 72px 0;
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 46px;
+}
+
+.bookmark_img {
+    height: 500px;
+    width: 388%;
+
+    background-image: url("../../assets/portfolio/bookmark/image-portfolio-bookmark.jpg");
+    background-size: cover;
+}
+
+.container_insure {
+    display: flex;
+
+    padding: 50px 0;
+    
+    color: #33323d;
+}
+
+.insure_img {
+    height: 500px;
+    width: 388%;
+
+    background-image: url("../../assets/portfolio/insure/image-portfolio-insure.jpg");
+    background-size: cover;
+}
+
+.content_insure {
+    padding: 0 100px; 
+}
+
+.titulo_insure h1 {
+    width: 430px;
+    height: 42px;
+    padding: 23px 0;
+
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 37px;
+}
+
+.text_insure p {
+    height: 100%;
+    padding: 72px 0;
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 46px;
+}
+
+.container_fylo {
+    display: flex;
+
+    padding: 50px 0;
+    
+    color: #33323d;
+}
+
+.content_fylo {
+    padding: 0 100px; 
+}
+
+.titulo_fylo h1 {
+    width: 430px;
+    height: 42px;
+    padding: 23px 0;
+
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 37px;
+}
+
+.text_fylo p {
+    height: 100%;
+    padding: 72px 0;
+
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 46px;
+}
+
+.fylo_img {
+    height: 500px;
+    width: 388%;
+
+    background-image: url("../../assets/portfolio/fylo/image-portfolio-fylo.jpg");
+    background-size: cover;
+}

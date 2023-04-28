@@ -1,0 +1,33 @@
+.header {
+    width: 92vw;
+    height: 6vw;
+    margin: 22px 0 0 38px;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+.header__img {
+    margin: 7px 0 0 126px;
+}
+   
+.header_navegation ul li {
+        display: inline-block;
+}
+    
+.header_navegation-item {
+        margin-left: 53px;
+        font-size: 17px;
+        font-weight: 500;
+        font-style: normal;
+        line-height: 68px;
+        text-align: right;
+}
+
+.header_navegation-item:hover {
+    color: #5fb4a2;
+}

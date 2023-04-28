@@ -1,0 +1,27 @@
+.container_mudar {
+    margin: 40px 0;
+}
+
+.content_mudar {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0;
+}
+
+.content_anterior, .content_proximo  {
+ display: flex;
+ align-items: center;
+}
+
+.img_arrow-left img, .img_arrow-right img{
+    height: 38px;
+}
+
+.text_mudar {
+    margin: 0 12px;
+}
+
+.text_mudar h1 {
+    font-size: 25px;
+    padding: 10px 0;
+}
